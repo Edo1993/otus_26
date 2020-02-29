@@ -40,4 +40,5 @@ ________________________________________________________________________________
 ![Img_alt](https://github.com/Edo1993/otus_26/blob/master/261.png)
 
 ```client2``` - видит только dns.lab
+
 ![Img_alt](https://github.com/Edo1993/otus_26/blob/master/262.png)
